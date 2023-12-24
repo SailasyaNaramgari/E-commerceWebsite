@@ -4,10 +4,9 @@
 
 <img width="162" alt="image" src="https://github.com/SailasyaNaramgari/E-commerceWebsite/assets/141159254/bb8e92ae-ebe8-434f-ae71-9d0cb0eee372">
 
+This is a ecommerce frontend shopping website using html, css, js. It has home, shop, Blog, Aboutus, Contact, Cart pages with smooth scrolling and easy access. This also includes Advanced responsive design using media queries.
 
 This is a responsive frontend website for small(ex:iphone SE) , medium(ex:ipad mini) , large screens which are of different shapes and sizes.
-
-This is a ecommerce frontend shopping website using html, css, js. It has home, shop, Blog, Aboutus, Contact, Cart pages with smooth scrolling and easy access. This also includes Advanced responsive design using media queries.
 
 
 ### Requirements and Tested Platforms :
