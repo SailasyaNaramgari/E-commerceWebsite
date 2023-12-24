@@ -10,3 +10,5 @@ Requirements and Tested Platforms :
 HTML, CSS, JavaScript : VS code
 
 Windows (32bit/64bit): Windows 11
+
+<img width="945" alt="image" src="https://github.com/SailasyaNaramgari/E-commerceWebsite/assets/141159254/33eee04c-2eee-4726-9e10-9d31e23a410d">
